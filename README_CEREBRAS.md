@@ -1,6 +1,10 @@
 # evalscope — Cerebras Fork
 ## Task 2: Benchmark Compression
 
+
+## Video Walkthrough
+[Watch here](https://www.loom.com/share/9636e76bc86f4feca8540995e94ad29d)
+
 **Pinned commit SHA:** `85c89b1f182f2fa2aa94366e5bb3b8805e536ac9`
 
 ## Install
